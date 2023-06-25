@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1641487530 source:c:\users\admin\desktop\stablo\main.cpp
+	<iostream>
+	"stablo.h"
+
+1641487514 c:\users\admin\desktop\stablo\stablo.h
+	<utility>
+	"stablo.cpp"
+
+1641487547 c:\users\admin\desktop\stablo\stablo.cpp
+	"stablo.h"
+	<iostream>
+
+1641486929 source:c:\users\admin\desktop\stablo\stablo.cpp
+	"stablo.h"
+
